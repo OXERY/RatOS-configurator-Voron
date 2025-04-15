@@ -28,7 +28,7 @@ mkdir RatOS-dev && cd RatOS-dev
 mkdir -p printer_data/ratos
 mkdir -p printer_data/logs
 mkdir -p printer_data/config
-git clone git@github.com:Rat-OS/RatOS-configurator.git
+git clone git@github.com:OXERY/RatOS-configurator-Voron.git
 # External dependencies
 git clone git@github.com:klipper3d/klipper.git
 git clone git@github.com:Arksine/moonraker.git

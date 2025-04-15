@@ -13,6 +13,7 @@
 *.pem
 .DS_Store
 *:Zone.Identifier
+*.bak
 
 # debug
 npm-debug.log*
